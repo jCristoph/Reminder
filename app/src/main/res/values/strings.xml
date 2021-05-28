@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Reminder</string>
+    <string name="press_me_to_start">Press me to start!</string>
+    <string name="notifications_channel_description">Reminder Description</string>
+    <string name="error">An error has occurred</string>
+    <string name="check_manually">Sprawdź sam</string>
 </resources>
